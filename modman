@@ -1,0 +1,4 @@
+app/code/community/Spranks/SaveAdminCredentials/ app/code/community/Spranks/SaveAdminCredentials/
+app/design/adminhtml/default/default/layout/spranks_saveadmincredentials.xml app/design/adminhtml/default/default/layout/spranks_saveadmincredentials.xml
+app/design/adminhtml/default/default/template/spranks/saveadmincredentials/ app/design/adminhtml/default/default/template/spranks/saveadmincredentials/
+app/etc/modules/Spranks_SaveAdminCredentials.xml app/etc/modules/Spranks_SaveAdminCredentials.xml

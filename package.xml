@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Spranks_SaveAdminCredentials</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL 3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>This extension enables you to save your admin credentials in Magento &gt;= 1.8 again.</summary>
+    <description>This extension enables you to save your admin credentials in Magento &gt;= 1.8 again. Magento disabled this possibility in version 1.8 for security reasons. But many merchants want to use this feature anyway. This extension enables them to store their credentials again. It is based on the snippet by RIZN (https://github.com/riznmage/Magento-1.8-Admin-Save-Password), but is now packed into a proper Magento extension.</description>
+    <notes>Initial Release</notes>
+    <authors><author><name>Simon Sprankel</name><user>spranks</user><email>simonsprankel@gmail.com</email></author></authors>
+    <date>2015-02-25</date>
+    <time>11:57:16</time>
+    <contents><target name="magecommunity"><dir name="Spranks"><dir name="SaveAdminCredentials"><dir name="etc"><file name="config.xml" hash="e274ef96cc4e3ae86f19dccce2766940"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Spranks_SaveAdminCredentials.xml" hash="ebe586110f7cb2337687990418c9f1c2"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

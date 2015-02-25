@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Spranks_SaveAdminCredentials>
+            <version>1.0.0</version>
+        </Spranks_SaveAdminCredentials>
+    </modules>
+    <adminhtml>
+        <layout>
+            <updates>
+                <spranks_saveadmincredentials>
+                    <file>spranks_saveadmincredentials.xml</file>
+                </spranks_saveadmincredentials>
+            </updates>
+        </layout>
+    </adminhtml>
+</config>
