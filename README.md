@@ -4,7 +4,7 @@ Magento extension which enables you to save your admin credentials in Magento >=
 
 Facts
 -----
-- version: 0.1.0
+- version: 1.0.0
 - extension key: Spranks_SaveAdminCredentials
 - [extension on Magento Connect](http://www.magentocommerce.com/magento-connect/)
 - Magento Connect 2.0 extension key: http://connect20.magentocommerce.com/community/Spranks_SaveAdminCredentials
